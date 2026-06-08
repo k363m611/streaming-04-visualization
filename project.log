@@ -1,0 +1,15 @@
+Project Log - Streaming 04 Visualization
+
+Created custom consumer:
+tax_adjusted_sales_consumer.py
+
+Commands executed:
+python3 tax_adjusted_sales_consumer.py
+
+Git commands:
+git add tax_adjusted_sales_consumer.py
+git commit -m "Add custom consumer"
+git push
+
+Modification:
+Created a custom consumer to process sales data and explore tax-adjusted sales calculations.
